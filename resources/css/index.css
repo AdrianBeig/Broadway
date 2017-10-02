@@ -1,0 +1,20 @@
+body , .Home {
+  font-family: Helvetica;
+  text-align: center;
+}
+h1 , .link , .copy-right , .design {
+  color: White;
+}
+div {
+  background-color: White;
+}
+.copy-right , .low {
+  background-color: dimgray;
+  text-align: left;
+}
+.copy-right , .low {
+  font-size: 11px;
+}
+.Home , .design {
+    background-image: url("C:/Users/Hamed/Desktop/Coding/Projects/Broadway/resources/photos/the-flatiron-building.png");
+}
